@@ -4,6 +4,6 @@ public class HelloWorld {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
-        System.out.println(a+b);
+        System.out.println("Sum is "+ (a+b));
     }
 }
